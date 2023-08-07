@@ -113,27 +113,27 @@ This section should list any major frameworks/libraries used to bootstrap your p
 #### [Join Team Discord Channel](https://discord.gg/D8CfRxBb)
 
 <!-- This information will be removed if/when the repository is made public -->
-|          Name           |              Email               |           Discord          |     Phone     |        Team Position          |
-| :---------------------: | :------------------------------: | :------------------------: | :-----------: | :---------------------------: |
-| Tim Polich              | tpolich@sfsu.edu                 | MrTim11#0713               | (818)913-1657 |       Front End Lead          |
-| Kevin Aziz              | kaziz2@mail.sfsu.edu             | Kevin Brother #4099        |               |       Back End Lead           |
-| Wallace Man             | wman2@sfsu.edu                   | GoldenSushi#9071           | (626)623-9033 |       Core Team Member        |
-| Jeremiah Ruvalcaba      | jruvalcaba@mail.sfsu.edu         | jSR#3842                   |               |       Core Team Member        |
-| Christian Jackson       | cjackson21@sfsu.edu              | cjack513#1450              |               |       Github Lead             |
-| Dragutin Petkovic       | petkovic@sfsu.edu                |                            |               |       CEO                     |
-| Anthony John Souza      | ajsouza@sfsu.edu                 |                            |               |       CTO                     |
-| Dylan Burns             | dburns6@sfsu.edu                 | Dylan#6079                 | (619)415-9870 |       Tech Lead               |
+|     Name      |     Email     | Discord |     Phone     |   Team Position  |
+| :-----------: | :-----------: | :-----: | :-----------: | :--------------: |
+| Team Member 1 | xxxx@sfsu.edu |   xxxx  | (xxx)xxx-xxxx | Front End Lead   |
+| Team Member 2 | xxxx@sfsu.edu |   xxxx  | (xxx)xxx-xxxx | Back End Lead    |
+| Team Member 3 | xxxx@sfsu.edu |   xxxx  | (xxx)xxx-xxxx | Core Team Member |
+| Team Member 4 | xxxx@sfsu.edu |   xxxx  | (xxx)xxx-xxxx | Core Team Member |
+| Team Member 5 | xxxx@sfsu.edu |   xxxx  | (xxx)xxx-xxxx | Github Lead      |
+| Professor     | xxxx@sfsu.edu |         |               | CEO              |
+| Professor     | xxxx@sfsu.edu |         |               | CTO              |
+| Dylan Burns   | xxxx@sfsu.edu |   xxxx  | (xxx)xxx-xxxx | Tech Lead        |
 
                                    
 ### Availibility
-|        Name        |   Sunday    |   Monday    |   Tuesday    |  Wednesday  |   Thursday   |   Friday      |  Saturday   |                                          
-| :----------------: | :---------: | :---------: | :----------: | :---------: | :----------: | :-----------: | :---------: |
-| Tim Polich         |             |             | 3:15pm - 4pm |             | 3:15pm - 4pm |               |             |
-| Kevin Aziz         |             |             |              |             | 3:15pm - 4pm            |  |             |
-| Wallace            |             |             | 2pm - 6pm    |             | 2pm - 6pm    | 11am - 4pm    |             |
-| Jeremiah Ruvalcaba |             |      x      | 3:15pm - 7pm |             | 3:15pm - 7pm |       x       |             |
-| Christian Jackson  |             |             | 3pm - 11pm   |             | 3pm - 7pm    | 10am - 5pm    |             |
-| Dylan Burns        |             |             | 10am - 4pm   |             | 12pm - 10pm  | 10am - 4pm    |             |
+|      Name     |   Sunday    |   Monday    |   Tuesday    |  Wednesday  |   Thursday   |   Friday      |  Saturday   |                                          
+| :-----------: | :---------: | :---------: | :----------: | :---------: | :----------: | :-----------: | :---------: |
+| Team Member 1 |             |             | 3:15pm - 4pm |             | 3:15pm - 4pm |               |             |
+| Team Member 2 |             |             |              |             | 3:15pm - 4pm |               |             |
+| Team Member 3 |             |             | 2pm - 6pm    |             | 2pm - 6pm    | 11am - 4pm    |             |
+| Team Member 4 |             |      x      | 3:15pm - 7pm |             | 3:15pm - 7pm |       x       |             |
+| Team Member 5 |             |             | 3pm - 11pm   |             | 3pm - 7pm    | 10am - 5pm    |             |
+| Dylan Burns   |             |             | 10am - 4pm   |             | 12pm - 10pm  | 10am - 4pm    |             |
 
                                   
 ## Milestones                              
